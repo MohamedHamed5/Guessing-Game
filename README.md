@@ -1,9 +1,9 @@
 Guessing Game (CLI & GUI)
 
-Overview
+Overview:
 A fun and interactive Guessing Game built with Python. The project features two modes of play and offers both a Command Line Interface (CLI) and a modern Graphical User Interface (GUI) using customtkinter.
 
-Features
+Features:
 Dual Game Modes:
 User Mode: You try to guess the computer's secret number.
 Computer Mode: The computer uses the Binary Search Algorithm to guess your number efficiently.
@@ -11,12 +11,12 @@ Smart Ranking System: Get ranked based on how close you were to the optimal numb
 Modern GUI: A sleek, dark-themed interface for a better user experience.
 Binary Search Logic: The game calculates the mathematically optimal number of guesses for any range.
 
-Technologies Used
+Technologies Used:
 Python 3.x
 CustomTkinter: For the modern GUI.
 Random & Math Modules: For game logic.
 
-How to Run
+How to Run:
 Clone the repository:
 Bash
 git clone https://github.com/MohamedHamed5/Guessing-Game.git
@@ -29,7 +29,7 @@ Run the game:
 For GUI version: python "GuessingGame(gui ).py"
 For CLI version: python GuessingGame.py
 
-Team Members
+Team Members:
 This project was developed by:
 Mohamed Ahmed AlSayed Hamed (Team Lead)
 Amira Saber Saadin Amer
