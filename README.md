@@ -68,13 +68,13 @@ python "Guessing Game (gui).py"
 python GuessingGame.py
 ```
 ---
-### Option 2: Run the Executable (.exe) ⭐
+### Option 2: Run the Executable (.exe)
 
 You can download and run the game directly without installing Python:
 
 1. Go to the **Releases** section on GitHub
 2. Download the latest `.exe` file
-3. Open the file and enjoy the game 🎉
+3. Open the file and enjoy the game
 
 > Note: The `.exe` file works on Windows only.
 ---
