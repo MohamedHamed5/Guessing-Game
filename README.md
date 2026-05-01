@@ -31,13 +31,13 @@ For CLI version: python GuessingGame.py
 
 Team Members:
 This project was developed by:
-Mohamed Ahmed AlSayed Hamed (Team Lead)
-Amira Saber Saadin Amer
-Malak Tarek Saleh El-Belasy
-Mariam El-Mofty Abdelshafy El-Hamady
-Menna Mohamed Diab
-Mohamed Mostafa
-Mohamed Rami Zakaria
-Mostafa Kamel Abo El-Ezz
-Somaya Hesham El-Sayed Ahmed Ali Gomaa
-Yasmin Mostafa Yassin El-Sayed
+- Mohamed Ahmed AlSayed Hamed (Team Lead)
+- Amira Saber Saadin Amer
+- Malak Tarek Saleh El-Belasy
+- Mariam El-Mofty Abdelshafy El-Hamady
+- Menna Mohamed Diab
+- Mohamed Mostafa
+- Mohamed Rami Zakaria
+- Mostafa Kamel Abo El-Ezz
+- Somaya Hesham El-Sayed Ahmed Ali Gomaa
+- Yasmin Mostafa Yassin El-Sayed
